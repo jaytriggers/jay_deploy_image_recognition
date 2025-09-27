@@ -1,9 +1,6 @@
 import gradio as gr
 from fastai.vision.all import *
 
-__all__ = ['learn','category','classify_images','image','label','examples','demo'import gradio as gr
-from fastai.vision.all import *
-
 __all__ = ['learn','categories','classify_images','image','label','examples','demo']
 
 learn = load_learner('bear_image_detection_model.pkl')
