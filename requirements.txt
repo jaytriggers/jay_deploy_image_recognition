@@ -67,7 +67,7 @@ rich==14.1.0
 ruff==0.13.2
 safehttpx==0.1.6
 scikit-learn==1.7.2
-scipy==1.16.2
+scipy==1.11.3
 semantic-version==2.10.0
 shellingham==1.5.4
 six==1.17.0
